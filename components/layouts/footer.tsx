@@ -74,6 +74,8 @@ export default function Footer() {
                     ))}
                 </div>
                 <div className="mt-8 md:order-1 md:mt-0">
+                <script type="text/javascript" src="https://widget.supercounters.com/ssl/online_i.js"></script>
+                <script type="text/javascript">sc_online_i(1682765,"ffffff","00000");</script>
                     <p className="text-center text-xs leading-5 text-gray-500 uppercase">
                         {SITENAME} &copy; {year} &mdash; Inc. All rights
                         reserved.
