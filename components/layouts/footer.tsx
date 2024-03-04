@@ -71,17 +71,7 @@ export default function Footer() {
                             <span className="sr-only">{item.name}</span>
                             <item.icon className="h-6 w-6" aria-hidden="true" />
                         </a>
-                    ))}
-                </div>
-                <div className="mt-8 md:order-1 md:mt-0">
-                    <p className="text-center text-xs leading-5 text-gray-500 uppercase">
-                        {SITENAME} &copy; {year} &mdash; Inc. All rights
-                        reserved.
-                    </p>
-                </div>
-            </div>
-        </footer>
-         <!-- Histats.com  START  (aync)-->
+            <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
 _Hasync.push(['Histats.start', '1,4842816,4,0,0,0,00010000']);
 _Hasync.push(['Histats.fasi', '1']);
@@ -93,5 +83,15 @@ hs.src = ('//s10.histats.com/js15_as.js');
 })();</script>
 <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4842816&101" alt="" border="0"></a></noscript>
 <!-- Histats.com  END  -->
+                    ))}
+                </div>
+                <div className="mt-8 md:order-1 md:mt-0">
+                    <p className="text-center text-xs leading-5 text-gray-500 uppercase">
+                        {SITENAME} &copy; {year} &mdash; Inc. All rights
+                        reserved.
+                    </p>
+                </div>
+            </div>
+        </footer>
     );
 }
