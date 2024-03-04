@@ -78,8 +78,6 @@ export default function Footer() {
                         {SITENAME} &copy; {year} &mdash; Inc. All rights
                         reserved.
                     </p>
-                    <script type="text/javascript" src="//widget.supercounters.com/ssl/online_i.js"></script><script type="text/javascript">sc_online_i(1682765,"ffffff","00000");</script><br><noscript><a href="https://www.supercounters.com/">free online counter</a></noscript>
-                <script async src="https://js.wpadmngr.com/static/adManager.js" data-admpid="108615"></script>
                 </div>
             </div>
         </footer>
