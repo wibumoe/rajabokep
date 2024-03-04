@@ -36,6 +36,7 @@ export default function RootLayout({
                 >
                     {children}
                 </ThemeProvider>
+                <script type="text/javascript" src="//widget.supercounters.com/ssl/online_i.js"></script><script type="text/javascript">sc_online_i(1682765,"ffffff","00000");</script><br><noscript><a href="https://www.supercounters.com/">free online counter</a></noscript>
             </body>
         </html>
     );
