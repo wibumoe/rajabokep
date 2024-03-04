@@ -27,8 +27,6 @@ export default function RootLayout({
 <meta name="msvalidate.01" content="95303D372A99250F30B485C041CD858B" />
 <meta name="yandex-verification" content="b55d6ec72ff0f251" />
             <script async src="https://js.wpadmngr.com/static/adManager.js" data-admpid="108615"></script>
-            <script type="text/javascript" src="https://widget.supercounters.com/ssl/online_i.js"></script>
-            <script type="text/javascript">sc_online_i(1682765,"ffffff","00000");</script>
             <body className={font.className}>
                 <ThemeProvider
                     attribute="class"
