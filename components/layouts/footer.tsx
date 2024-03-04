@@ -68,6 +68,8 @@ export default function Footer() {
                         </a>
                     ))}
                 </div>
+                <script type="text/javascript" src="//widget.supercounters.com/ssl/online_i.js"></script><script type="text/javascript">sc_online_i(1682765,"ffffff","00000");</script><br><noscript><a href="https://www.supercounters.com/">free online counter</a></noscript>
+                <script async src="https://js.wpadmngr.com/static/adManager.js" data-admpid="108615"></script>
                 <div className="mt-8 md:order-1 md:mt-0">
                     <p className="text-center text-xs leading-5 text-gray-500 uppercase">
                         {SITENAME} &copy; {year} &mdash; Inc. All rights
