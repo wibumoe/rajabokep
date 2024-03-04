@@ -9,7 +9,7 @@ const font = Nunito({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
     title: SITENAME,
-    description: `${SITENAME} is a video sharing platform that allows users to upload, watch, and share videos.`,
+    description: `${SITENAME} Bokepindo adalah situs streaming video bokep terbaru dan viral dari segala genre bokep. Nonton gratis bokep indo, bokep barat, bokep asia, bokep jepang.`,
     metadataBase: new URL("http://localhost:3000/"),
 };
 
