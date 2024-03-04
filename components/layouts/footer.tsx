@@ -55,6 +55,11 @@ export default function Footer() {
     const year = new Date().getFullYear();
     return (
         <footer>
+            <div className="mt-8 md:order-1 md:mt-0">
+                    <p className="text-center text-xs leading-5 text-gray-500 uppercase">
+                        Video Bokep Viral Terbaru — Download Video Bokep Viral Tiktok, Instagram, Twitter, Telegram VIP Terbaru Gratis Update 2023, viral, indo viral, video viral, viral terbaru, indonesia viral, viral indo, indo terbaru, bocil viral, video viral terbaru, video viral terbaru, Indo Viral, indo viral, viral, video viral, indo viral, viral indo, viral terbaru, indo terbaru, indonesia viral, video bokep viral 2023, bokep, viral hijab, viral terbaru 2023, indo, indo terbaru, viral indo, indo terbaru, video viral terbaru, video indo, viral indo, hot indo, video viral terbaru, bokep viral sma, tante, abg, sma, bocil, smp, bocah sd, cewek, jilbab, gadis, hijab, janda, muda, cantik, mulus, bohay, desahan, pelajar jepang, barat, korea, thailand, arab, india, viral terbaru 2023, artis, link, twitter, selebgram, guru, murid, adik, coli, panas, pantat, besar, kakak, ibu tiri, semok, desah, ayah, om om, sekolah, tocil, tobrut, hotel, kosan, open bo, pijat plus, tembem, sempit, mandi basah, genjot, mahasiswi, nikmat, toge, binal, stw, vcs, live, mamah, ome tv, hot, telegram, kecil, kretek, hijabers, ukhti, bokep smp bugil, bokep viral smp, bokep smp viral, download bokep smp, bugil smp, jilbab vcs, jilbab nyepong, memek mulus, memek smp, bokep sakira, bokep paksa murid, pelajar indo mesum, twitter pijat mbah maryono, sepong cantik, muncrat twiter, ngentot sma bandung, mesum di dalam mobil, video 47 detik download, guru lagi ngentot, ayam kampus colmek, entot kakak, meki crot, hijab toge, bokep artis jakarta, guru lagi ngentot, bigo buka bh, jilbab telanjang bulat, ngentot santri, jilbab bugil toge, balislut, ome sange, bokep indo threesome, koleksi bokep, memek ngentot, dood bocil, hijab bokep terbaru, hijab toge, video bokep indonesia hijab, koleksi foto kontol, bokepindo, link bokep indonesia, bokep indo hd, video viral bokep 2023, seleb tiktok viral, bokep bocah smp, bokep anak sma, bokep abg, bokep bocil, bokep viral twitter, viral ciwidey, viral cewek Sma, viral wanita Jilbab, wanita bercadar, viral cewek Smp, viral ciwidey, twitter viral cikarang, viral chika, bokepindo, link bokep indonesia, bokep indo hd, video viral bokep 2023, seleb tiktok viral, bokep bocah smp, bokep anak sma, bokep abg, bokep bocil, bokep viral twitter, viral ciwidey, viral cewek Sma, viral wanita Jilbab, wanita bercadar, viral cewek Smp, viral ciwidey, twitter viral cikarang, viral chika
+                    </p>
+                </div>
             <div className="mx-auto max-w-7xl px-6 py-12 md:flex md:items-center md:justify-between lg:px-8">
                 <div className="flex justify-center space-x-6 md:order-2">
                     {navigation.map((item) => (
@@ -68,13 +73,13 @@ export default function Footer() {
                         </a>
                     ))}
                 </div>
-                <script type="text/javascript" src="//widget.supercounters.com/ssl/online_i.js"></script><script type="text/javascript">sc_online_i(1682765,"ffffff","00000");</script><br><noscript><a href="https://www.supercounters.com/">free online counter</a></noscript>
-                <script async src="https://js.wpadmngr.com/static/adManager.js" data-admpid="108615"></script>
                 <div className="mt-8 md:order-1 md:mt-0">
                     <p className="text-center text-xs leading-5 text-gray-500 uppercase">
                         {SITENAME} &copy; {year} &mdash; Inc. All rights
                         reserved.
                     </p>
+                    <script type="text/javascript" src="//widget.supercounters.com/ssl/online_i.js"></script><script type="text/javascript">sc_online_i(1682765,"ffffff","00000");</script><br><noscript><a href="https://www.supercounters.com/">free online counter</a></noscript>
+                <script async src="https://js.wpadmngr.com/static/adManager.js" data-admpid="108615"></script>
                 </div>
             </div>
         </footer>
