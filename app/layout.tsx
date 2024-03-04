@@ -22,6 +22,9 @@ export default function RootLayout({
 }) {
     return (
         <html lang="en" suppressHydrationWarning>
+            <meta name="google-site-verification" content="7NPvMDMIUaaRLoNby32XVj1qHTuAfWjzx6jdSBpggEM" />
+<meta name="msvalidate.01" content="95303D372A99250F30B485C041CD858B" />
+<meta name="yandex-verification" content="b55d6ec72ff0f251" />
             <body className={font.className}>
                 <ThemeProvider
                     attribute="class"
